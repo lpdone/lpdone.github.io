@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 
-I am a 4nd-year Ph.D student, supervised by Prof. Hongtao Xie and Prof. Yongdong Zhang in [IMCC](http://imcc.ustc.edu.cn/main.htm), University of Science and Technology of China. 
+I am a 4nd-year Ph.D student, supervised by Prof. Hongtao Xie and Prof. Yongdong Zhang in [NEL-BITA](http://leinao.ustc.edu.cn/main.htm) and [IMCC](http://imcc.ustc.edu.cn/main.htm), University of Science and Technology of China. 
+From 2020.5 to 2021.3, I focused on metric learning research at Kuaishou with the guidance of my mentor [Dr. Lei Zhang](https://ieeexplore.ieee.org/author/38240121300).
 Currently, I am a research intern at [Vision Lab@DAMO Academy](https://damo.alibaba.com/careers/), working under [Liming Zhao](https://www.zhaoliming.net/), [Chen-Wei Xie](https://scholar.google.com/citations?user=UHCDCRMAAAAJ&hl=en) and [Deli Zhao](https://zhaodeli.github.io/).
 My research interests include video understanding and multi-modal learning.
 
