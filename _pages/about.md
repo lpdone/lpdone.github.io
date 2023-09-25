@@ -1,4 +1,3 @@
-![image](https://github.com/lpdone/lpdone.github.io/assets/52993038/4a43e55a-b9c3-46c9-a373-bc1847cff98f)---
 permalink: /
 title: "About me"
 excerpt: "About me"
