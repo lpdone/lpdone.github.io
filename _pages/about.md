@@ -1,4 +1,4 @@
----
+![image](https://github.com/lpdone/lpdone.github.io/assets/52993038/4a43e55a-b9c3-46c9-a373-bc1847cff98f)---
 permalink: /
 title: "About me"
 excerpt: "About me"
@@ -15,7 +15,7 @@ Currently, I am a research intern at [Vision Lab@DAMO Academy](https://damo.alib
 My research interests include video understanding and multi-modal learning.
 
 
-## Selected Publications
+## Publications
 ### 2023
 * MomentDiff: Generative Video Moment Retrieval from Random to Real. [[arXiv]](https://arxiv.org/pdf/2307.02869) [[code]](https://github.com/IMCCretrieval/MomentDiff)  
 <strong>Pandeng Li</strong>, Chen-Wei Xie, Hongtao Xie, Liming Zhao, Lei Zhang, Yun Zheng, Deli Zhao, Yongdong Zhang.  
@@ -38,14 +38,25 @@ European Conference on Computer Vision (ECCV 2022)
 <strong>Pandeng Li</strong>, Yan Li, Hongtao Xie, Lei Zhang.  
 Association for the Advancement of Artificial Intelligence (AAAI 2022)  (<span style="color: red">**Oral Presentation**</span>)
 
-
-
-
 * Deep Fourier Ranking Quantization for Semi-supervised Image Retrieval. [[paper]](https://ieeexplore.ieee.org/document/9881974/) [[code]](https://github.com/IMCCretrieval/DFRQ)   
 <strong>Pandeng Li</strong>, Hongtao Xie, Shaobo Min, Jiannan Ge, Xun Chen, Yongdong Zhang.   
-IEEE Transactions on Image Processing (TIP 2022) 
+IEEE Transactions on Image Processing (TIP 2022) (SCI一区，IF=10.6)
+
+* Online Residual Quantization Via Streaming Data Correlation Preserving. [[paper]](https://ieeexplore.ieee.org/document/9364714)  
+<strong>Pandeng Li</strong>, Hongtao Xie, Shaobo Min, Zheng-Jun Zha, Yongdong Zhang.  
+IEEE Transactions on Multimedia (TMM 2022) (SCI一区，IF=7.3)
+
+* Neighborhood-Adaptive Multi-cluster Ranking for Deep Metric Learning. [[paper]](https://ieeexplore.ieee.org/document/9915612)    
+<strong>Pandeng Li</strong>, Hongtao Xie, Yan Jiang, Jiannan Ge, Yongdong Zhang.   
+IEEE Transactions on Circuits and Systems for Video Technology (TCSVT 2022) (SCI一区，IF=8.4)
 
 * Dual Part Discovery Network for Zero-Shot Learning. [[paper]](https://dl.acm.org/doi/abs/10.1145/3503161.3547889)  
 Jiannan Ge, Hongtao Xie, Shaobo Min, <strong>Pandeng Li</strong>, Yongdong Zhang.  
 ACM Multimedia (ACM-MM 2022) 
 (<span style="color: red">**Oral Presentation**</span>)
+
+## Awards
+
+* 2022/09 National Scholarships, USTC
+* 2022/11 Excellent Award at the 2nd Postgraduate Academic Forum of Journal of Image and Graphics
+  
