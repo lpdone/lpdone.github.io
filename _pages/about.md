@@ -21,7 +21,7 @@ My research interests include video understanding and multi-modal learning.
 <strong>Pandeng Li</strong>, Chen-Wei Xie, Hongtao Xie, Liming Zhao, Lei Zhang, Yun Zheng, Deli Zhao, Yongdong Zhang.  
 Conference on Neural Information Processing Systems (NeurIPS 2023)  
 
-* Progressive Spatio-Temporal Prototype Matching for Text-Video Retrieval. [[paper]](https://openaccess.thecvf.com/menu)[[code]](https://github.com/IMCCretrieval/ProST)  
+* Progressive Spatio-Temporal Prototype Matching for Text-Video Retrieval. [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Progressive_Spatio-Temporal_Prototype_Matching_for_Text-Video_Retrieval_ICCV_2023_paper.pdf) [[supp]](https://drive.google.com/file/d/1Tzah5iVFvHizZKf4rHcadpiWjt7TYewa/view?usp=drive_link) [[code]](https://github.com/IMCCretrieval/ProST)  
 <strong>Pandeng Li</strong>, Chen-Wei Xie, Liming Zhao, Hongtao Xie, Jiannan Ge, Yun Zheng, Deli Zhao, Yongdong Zhang.  
 International Conference on Computer Vision (ICCV 2023)  (<span style="color: red">**Oral Presentation**</span>)
 
