@@ -60,5 +60,5 @@ ACM Multimedia (ACM-MM 2022)
 
 * 2022/09 National Scholarships, USTC
 * 2022/11 Excellent Award at the 2nd Postgraduate Academic Forum of Journal of Image and Graphics
-* 2023/12 the third prize (¥ 40,000) at [The 2nd Guangdong-Hong Kong-Macao International Algorithm Competition - Watch the video and talk](http://123.138.24.155:30080/org/pazhoulab/competition/area/64a77bed0890cb0bf38b0dfa/content/7) 
+* 2023/12 The third prize (¥ 40,000) at The 2nd Guangdong-Hong Kong-Macao International Algorithm Competition - [Watch the video and talk](http://123.138.24.155:30080/org/pazhoulab/competition/area/64a77bed0890cb0bf38b0dfa/content/7) 
   
