@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a 4nd-year Ph.D student, supervised by Prof. Hongtao Xie and [Prof. Yongdong Zhang](https://eeis.ustc.edu.cn/2017/0807/c2648a190587/page.htm) in [NEL-BITA](http://leinao.ustc.edu.cn/main.htm) and [IMCC](http://imcc.ustc.edu.cn/main.htm), University of Science and Technology of China. 
+I am a 5nd-year Ph.D student, supervised by Prof. Hongtao Xie and [Prof. Yongdong Zhang](https://eeis.ustc.edu.cn/2017/0807/c2648a190587/page.htm) in [NEL-BITA](http://leinao.ustc.edu.cn/main.htm) and [IMCC](http://imcc.ustc.edu.cn/main.htm), University of Science and Technology of China. 
 Before that, I graduated from Hefei University of Technology with a B.Eng. degree.
 In 2021, I focused on metric learning research at Kuaishou with the guidance of my mentor [Dr. Lei Zhang](https://ieeexplore.ieee.org/author/38240121300).
 Currently, I am a research intern at [TongYi Lab, Alibaba](https://tongyi.aliyun.com/), working under [Liming Zhao](https://www.zhaoliming.net/), [Chen-Wei Xie](https://scholar.google.com/citations?user=UHCDCRMAAAAJ&hl=en) and [Deli Zhao](https://zhaodeli.github.io/).
@@ -60,5 +60,5 @@ ACM Multimedia (ACM-MM 2022)
 
 * 2022/09 National Scholarships, USTC
 * 2022/11 Excellent Award at the 2nd Postgraduate Academic Forum of Journal of Image and Graphics
-* 2023/12 The third prize (¥ 40,000) at The 2nd Guangdong-Hong Kong-Macao International Algorithm Competition - [Watch the video and talk](http://123.138.24.155:30080/org/pazhoulab/competition/area/64a77bed0890cb0bf38b0dfa/content/7) 
+* 2023/12 [The third prize](http://123.138.24.155:30080/org/pazhoulab/competition/area/64a77bed0890cb0bf38b0dfa/content/7) (¥ 40,000) at The 2nd Guangdong-Hong Kong-Macao International Algorithm Competition
   
