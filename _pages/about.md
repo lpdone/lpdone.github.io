@@ -24,7 +24,7 @@ Conference on Neural Information Processing Systems (NeurIPS 2023)
 
 * Progressive Spatio-Temporal Prototype Matching for Text-Video Retrieval. [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Progressive_Spatio-Temporal_Prototype_Matching_for_Text-Video_Retrieval_ICCV_2023_paper.pdf) [[supp]](https://drive.google.com/file/d/1Tzah5iVFvHizZKf4rHcadpiWjt7TYewa/view?usp=drive_link) [[code]](https://github.com/IMCCretrieval/ProST)  
 <strong>Pandeng Li</strong>, Chen-Wei Xie, Liming Zhao, Hongtao Xie, Jiannan Ge, Yun Zheng, Deli Zhao, Yongdong Zhang.  
-International Conference on Computer Vision (ICCV 2023)  (<span style="color: red">**Oral Presentation, 2\%**</span>)
+International Conference on Computer Vision (ICCV 2023)  (<span style="color: red">**Oral Presentation, 2%**</span>)
 
 * Balanced Classification: A Unified Framework for Long-Tailed Object Detection. [[paper]](https://arxiv.org/abs/2308.02213) [[code]](https://github.com/Tianhao-Qi/BACL)   
 Tianhao Qi, Hongtao Xie, <strong>Pandeng Li</strong>, Jiannan Ge, Yongdong Zhang.   
@@ -37,7 +37,7 @@ European Conference on Computer Vision (ECCV 2022)
 
 * Neighborhood-Adaptive Structure Augmented Metric Learning. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20025/19784) [[code]](https://github.com/IMCCretrieval/NASA)  
 <strong>Pandeng Li</strong>, Yan Li, Hongtao Xie, Lei Zhang.  
-Association for the Advancement of Artificial Intelligence (AAAI 2022)  (<span style="color: red">**Oral Presentation, 4.5\%**</span>)
+Association for the Advancement of Artificial Intelligence (AAAI 2022)  (<span style="color: red">**Oral Presentation, 4.5%**</span>)
 
 * Deep Fourier Ranking Quantization for Semi-supervised Image Retrieval. [[paper]](https://ieeexplore.ieee.org/document/9881974/) [[code]](https://github.com/IMCCretrieval/DFRQ)   
 <strong>Pandeng Li</strong>, Hongtao Xie, Shaobo Min, Jiannan Ge, Xun Chen, Yongdong Zhang.   
