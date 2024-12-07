@@ -10,8 +10,8 @@ redirect_from:
 
 
 I received my Ph.D. degree at University of Science and Technology of China (USTC) in 2024.
-Prior to that, I received my Bachelor degree at Hefei University of Technology.
-My research interests include general video understanding and multi-modal learning.
+I am currently a researcher at Alibaba TongYi Lab.
+My research interests include general video understanding and generation.
 
 
 ## Publications
