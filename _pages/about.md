@@ -15,6 +15,47 @@ My research interests include general video understanding and generation.
 
 
 ## Publications
+
+### 2025
+* Rethinking Video Tokenization: A Conditioned Diffusion-based Approach. [[arXiv]](https://arxiv.org/abs/2503.03708)  
+Nianzu Yang <sup>\*</sup>, <strong>Pandeng Li</strong> <sup>\*</sup>, Liming Zhao, Yang Li, Chen-Wei Xie, Yehui Tang, Xudong Lu, Zhihang Liu, Yun Zheng, Yu Liu, Junchi Yan.   
+<!-- <sup>*</sup>Equal contribution (co-first authors).  -->
+
+
+
+
+
+* Hybrid-Level Instruction Injection for Video Token Compression in Multi-modal Large Language Models.    
+Zhihang Liu, Chen-Wei Xie, <strong>Pandeng Li</strong> <sup>✉</sup>, Liming Zhao, Longxiang Tang, Yun Zheng, Chuanbin Liu, Hongtao Xie.   
+Computer Vision and Pattern Recognition (CVPR 2025)
+
+* Denoised and Dynamic Alignment Enhancement for Zero-Shot Learning. [[paper]](https://pubmed.ncbi.nlm.nih.gov/40031700/)   
+Jiannan Ge, Zhihang Liu, <strong>Pandeng Li</strong>, Lingxi Xie, Yongdong Zhang, Qi Tian, Hongtao Xie.    
+IEEE Transactions on Image Processing (TIP 2025) (SCI一区，IF=10.6)
+
+* UFO: A Unified Approach to Fine-grained Visual Perception via Open-ended Language Interface [[arXiv]](https://arxiv.org/html/2503.01342v2)     
+Hao Tang, Chen-Wei Xie, Haiyang Wang, Xiaoyi Bao, Tingyu Weng, <strong>Pandeng Li</strong>, Yun Zheng, Liwei Wang.
+
+* What Is a Good Caption? A Comprehensive Visual Caption Benchmark for Evaluating Both Correctness and Coverage of MLLMs.  [[arXiv]](https://arxiv.org/abs/2502.14914)     
+Zhihang Liu, Chen-Wei Xie, Bin Wen, Feiwu Yu, Jixuan Chen, Boqiang Zhang, Nianzu Yang, <strong>Pandeng Li</strong>, Yun Zheng, Hongtao Xie.
+
+
+
+### 2024
+
+* FuseTeacher: Modality-Fused Encoders are Strong Vision Supervisors. [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-73195-2_17)    
+Chen-Wei Xie, Siyang Sun, Liming Zhao, <strong>Pandeng Li</strong>,  Shuailei Ma, Yun Zheng.   
+European Conference on Computer Vision (ECCV 2024) 
+
+* AlignZeg: Mitigating Objective Misalignment for Zero-shot Semantic Segmentation. [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-72775-7_9)    
+Jiannan Ge, Lingxi Xie, Hongtao Xie, <strong>Pandeng Li</strong>,  Xiaopeng Zhang, Yongdong Zhang, Qi Tian   
+European Conference on Computer Vision (ECCV 2024) 
+
+* Towards balanced alignment: Modal-enhanced semantic modeling for video moment retrieval. [[paper]](https://arxiv.org/abs/2312.12155) [[code]](https://github.com/lntzm/MESM)    
+Zhihang Liu, Jun Li, Hongtao Xie, <strong>Pandeng Li</strong>, Jiannan Ge, Sun-Ao Liu, Guoqing Jin.   
+Association for the Advancement of Artificial Intelligence (AAAI 2024) 
+
+
 ### 2023
 * MomentDiff: Generative Video Moment Retrieval from Random to Real. [[arXiv]](https://arxiv.org/pdf/2307.02869) [[code]](https://github.com/IMCCretrieval/MomentDiff)  
 <strong>Pandeng Li</strong>, Chen-Wei Xie, Hongtao Xie, Liming Zhao, Lei Zhang, Yun Zheng, Deli Zhao, Yongdong Zhang.  
