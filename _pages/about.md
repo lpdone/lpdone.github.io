@@ -17,13 +17,6 @@ My research interests include general video understanding and generation.
 ## Publications
 
 ### 2025
-* Rethinking Video Tokenization: A Conditioned Diffusion-based Approach. [[arXiv]](https://arxiv.org/abs/2503.03708)  
-Nianzu Yang <sup>\*</sup>, <strong>Pandeng Li</strong> <sup>\*</sup>, Liming Zhao, Yang Li, Chen-Wei Xie, Yehui Tang, Xudong Lu, Zhihang Liu, Yun Zheng, Yu Liu, Junchi Yan.   
-<!-- <sup>*</sup>Equal contribution (co-first authors).  -->
-
-
-
-
 
 * Hybrid-Level Instruction Injection for Video Token Compression in Multi-modal Large Language Models.    
 Zhihang Liu, Chen-Wei Xie, <strong>Pandeng Li</strong> <sup>✉</sup>, Liming Zhao, Longxiang Tang, Yun Zheng, Chuanbin Liu, Hongtao Xie.   
