@@ -26,16 +26,16 @@ Computer Vision and Pattern Recognition (CVPR 2025)
 Jiannan Ge, Zhihang Liu, <strong>Pandeng Li</strong>, Lingxi Xie, Yongdong Zhang, Qi Tian, Hongtao Xie.    
 IEEE Transactions on Image Processing (TIP 2025)
 
-* UFO: A Unified Approach to Fine-grained Visual Perception via Open-ended Language Interface [[paper]](https://arxiv.org/html/2503.01342v2)     
-Hao Tang, Chen-Wei Xie, Haiyang Wang, Xiaoyi Bao, Tingyu Weng, <strong>Pandeng Li</strong>, Yun Zheng, Liwei Wang.
+* UFO: A Unified Approach to Fine-grained Visual Perception via Open-ended Language Interface [[arxiv]](https://arxiv.org/html/2503.01342v2)     
+Hao Tang, Chen-Wei Xie, Haiyang Wang, Xiaoyi Bao, Tingyu Weng, <strong>Pandeng Li</strong>, Yun Zheng, Liwei Wang.   
 Conference on Neural Information Processing Systems (NeurIPS 2025)   (<span style="color: red">**Spotlight**</span>)
 
-* What Is a Good Caption? A Comprehensive Visual Caption Benchmark for Evaluating Both Correctness and Coverage of MLLMs.  [[paper]](https://arxiv.org/abs/2502.14914)     
-Zhihang Liu, Chen-Wei Xie, Bin Wen, Feiwu Yu, Jixuan Chen, Boqiang Zhang, Nianzu Yang, <strong>Pandeng Li</strong> <sup>✉</sup>, Yun Zheng, Hongtao Xie.
+* What Is a Good Caption? A Comprehensive Visual Caption Benchmark for Evaluating Both Correctness and Coverage of MLLMs.  [[arxiv]](https://arxiv.org/abs/2502.14914)     
+Zhihang Liu, Chen-Wei Xie, Bin Wen, Feiwu Yu, Jixuan Chen, Boqiang Zhang, Nianzu Yang, <strong>Pandeng Li</strong> <sup>✉</sup>, Yun Zheng, Hongtao Xie.  
 Conference on Neural Information Processing Systems (NeurIPS 2025)  
 
 * UniLiP: Adapting CLIP for Unified Multimodal Understanding, Generation and Editing  [[arxiv]](https://arxiv.org/abs/2507.23278)     
-Hao Tang, Chen-Wei Xie, Xiaoyi Bao, Tingyu Weng, <strong>Pandeng Li</strong>, Yun Zheng, Liwei Wang.
+Hao Tang, Chen-Wei Xie, Xiaoyi Bao, Tingyu Weng, <strong>Pandeng Li</strong>, Yun Zheng, Liwei Wang.  
 
 ### 2024
 
