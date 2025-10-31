@@ -24,15 +24,18 @@ Computer Vision and Pattern Recognition (CVPR 2025)
 
 * Denoised and Dynamic Alignment Enhancement for Zero-Shot Learning. [[paper]](https://pubmed.ncbi.nlm.nih.gov/40031700/)   
 Jiannan Ge, Zhihang Liu, <strong>Pandeng Li</strong>, Lingxi Xie, Yongdong Zhang, Qi Tian, Hongtao Xie.    
-IEEE Transactions on Image Processing (TIP 2025) (SCI一区，IF=10.6)
+IEEE Transactions on Image Processing (TIP 2025)
 
-* UFO: A Unified Approach to Fine-grained Visual Perception via Open-ended Language Interface [[arXiv]](https://arxiv.org/html/2503.01342v2)     
+* UFO: A Unified Approach to Fine-grained Visual Perception via Open-ended Language Interface [[paper]](https://arxiv.org/html/2503.01342v2)     
 Hao Tang, Chen-Wei Xie, Haiyang Wang, Xiaoyi Bao, Tingyu Weng, <strong>Pandeng Li</strong>, Yun Zheng, Liwei Wang.
+Conference on Neural Information Processing Systems (NeurIPS 2025)   (<span style="color: red">**Spotlight**</span>)
 
-* What Is a Good Caption? A Comprehensive Visual Caption Benchmark for Evaluating Both Correctness and Coverage of MLLMs.  [[arXiv]](https://arxiv.org/abs/2502.14914)     
-Zhihang Liu, Chen-Wei Xie, Bin Wen, Feiwu Yu, Jixuan Chen, Boqiang Zhang, Nianzu Yang, <strong>Pandeng Li</strong>, Yun Zheng, Hongtao Xie.
+* What Is a Good Caption? A Comprehensive Visual Caption Benchmark for Evaluating Both Correctness and Coverage of MLLMs.  [[paper]](https://arxiv.org/abs/2502.14914)     
+Zhihang Liu, Chen-Wei Xie, Bin Wen, Feiwu Yu, Jixuan Chen, Boqiang Zhang, Nianzu Yang, <strong>Pandeng Li</strong> <sup>✉</sup>, Yun Zheng, Hongtao Xie.
+Conference on Neural Information Processing Systems (NeurIPS 2025)  
 
-
+* UniLiP: Adapting CLIP for Unified Multimodal Understanding, Generation and Editing  [[arxiv]](https://arxiv.org/abs/2507.23278)     
+Hao Tang, Chen-Wei Xie, Xiaoyi Bao, Tingyu Weng, <strong>Pandeng Li</strong>, Yun Zheng, Liwei Wang.
 
 ### 2024
 
@@ -73,15 +76,15 @@ Association for the Advancement of Artificial Intelligence (AAAI 2022)  (<span s
 
 * Deep Fourier Ranking Quantization for Semi-supervised Image Retrieval. [[paper]](https://ieeexplore.ieee.org/document/9881974/) [[code]](https://github.com/IMCCretrieval/DFRQ)   
 <strong>Pandeng Li</strong>, Hongtao Xie, Shaobo Min, Jiannan Ge, Xun Chen, Yongdong Zhang.   
-IEEE Transactions on Image Processing (TIP 2022) (SCI一区，IF=10.6)
+IEEE Transactions on Image Processing (TIP 2022)
 
 * Online Residual Quantization Via Streaming Data Correlation Preserving. [[paper]](https://ieeexplore.ieee.org/document/9364714)  
 <strong>Pandeng Li</strong>, Hongtao Xie, Shaobo Min, Zheng-Jun Zha, Yongdong Zhang.  
-IEEE Transactions on Multimedia (TMM 2022) (SCI一区，IF=7.3)
+IEEE Transactions on Multimedia (TMM 2022)
 
 * Neighborhood-Adaptive Multi-cluster Ranking for Deep Metric Learning. [[paper]](https://ieeexplore.ieee.org/document/9915612)    
 <strong>Pandeng Li</strong>, Hongtao Xie, Yan Jiang, Jiannan Ge, Yongdong Zhang.   
-IEEE Transactions on Circuits and Systems for Video Technology (TCSVT 2022) (SCI一区，IF=8.4)
+IEEE Transactions on Circuits and Systems for Video Technology (TCSVT 2022)
 
 * Dual Part Discovery Network for Zero-Shot Learning. [[paper]](https://dl.acm.org/doi/abs/10.1145/3503161.3547889)  
 Jiannan Ge, Hongtao Xie, Shaobo Min, <strong>Pandeng Li</strong>, Yongdong Zhang.  
